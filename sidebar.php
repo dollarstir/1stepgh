@@ -62,7 +62,10 @@ echo '<div class="sidebar-wrapper sidebar-theme">
                             <a href="addmember.php"> Add Member </a>
                         </li>
                         <li>
-                            <a href="view_member.php"> View Members </a>
+                            <a href="view_member.php"> Edit Members </a>
+                        </li>
+                        <li>
+                            <a href="print.php"> View Members </a>
                         </li>
 
                         
